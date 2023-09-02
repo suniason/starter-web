@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brett Galvez	galvezbrett17@gmail.com		@brettgalvez
 
 # THANKS
 
