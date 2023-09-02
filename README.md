@@ -20,4 +20,4 @@ Please fork the repository then issue pull request for review.
 
 ### Copyright
 
-2023 GitTraining Galvez
+2023 GitTraining Galvez. All rights reserved.
