@@ -16,6 +16,8 @@ Deployment can be on any server or even local file system.
 
 ## How to Contribute
 
+Please fork the repository then issue pull request for review.
+
 ### Copyright
 
 2023 GitTraining Galvez
